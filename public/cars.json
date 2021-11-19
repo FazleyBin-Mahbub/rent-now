@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Black Sedan",
+    "desc": "Black Sedan is our luxury black car service. Offering the ultimate in luxury and class. Great for business travel. A premium service with the same professional drivers that will pick you up and will wait for you.",
+    "price": "800",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-1.jpg"
+  },
+  {
+    "name": "Toyota Etios",
+    "desc": "The Etios has been around for years now and is starting to feel its age. Despite the design upgrades, it looks dated inside out and as an overall product, is far from exciting. That said, there is no denying.",
+    "price": "600",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-2.jpg"
+  },
+  {
+    "name": "Mercedes AMG E63",
+    "desc": "The updated exterior design is reflected in the completely redesigned front end with its AMG-specific radiator grill featuring twelve vertical slats and the enlarged central star. The rear design conveys more elegance.",
+    "price": "650",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-3.jpg"
+  },
+  {
+    "name": "BMW X5",
+    "desc": "The BMW X5 is a mid-size luxury crossover SUV produced by BMW.[1] The X5 made its debut in 1999 as the E53 model. It was BMW's first SUV. At launch, it featured all-wheel drive and was available.",
+    "price": "900",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-4.jpg"
+  },
+  {
+    "name": "Toyota Avalon",
+    "desc": "The Toyota Avalon is a full-size car produced by Toyota. It is Toyota's largest front-wheel drive sedan and serves as its flagship vehicle in the United States, Canada, Puerto Rico, China and the Middle East.",
+    "price": "850",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-5.jpg"
+  },
+  {
+    "name": "Audi A8",
+    "desc": "The Audi A8 is a four-door, full-size, luxury sedan manufactured and marketed by the German automaker Audi since 1994. Succeeding the Audi V8, and now in its fourth generation, the A8 has been offered.",
+    "price": "800",
+    "img": "https://demo.kitthemes.com/html/rentnow/assets/images/car-6.jpg"
+  },
+  {
+    "name": "Hennessey Venom GT",
+    "desc": "The Hennessey Venom GT is a high performance sports car manufactured by Texas-based Hennessey Performance Engineering. The Venom GT is based on the Lotus Elise/Exige.",
+    "price": "1200",
+    "img": "https://www.venomgt.com/wp-content/uploads/2020/01/Hennessey-Venom-F5-Carbon-Fiber-Chassis-4.jpg"
+  },
+  {
+    "name": "Bugatti Bolide",
+    "desc": "The Bugatti Bolide is a track-day-focused hypercar developed and manufactured in Wolfsburg, by French automobile manufacturer Bugatti Automobiles S.A.S., and by Bugatti Engineering GmbH, revealed online on October 28, 2020. According to Bugatti, the Bolide is using the W16 engine with a weight-to-power-ratio of 0.67 kg/PS. Bugatti Announced the Bolide would be the last car ever made with their W16 engine. ",
+    "price": "1000",
+    "img": "https://www.bugatti.com/typo3conf/ext/bugatti_sitepackage/Resources/Public/Images/BXX/bxx-03-main.png"
+  },
+  {
+    "name": "SSC Tuatara",
+    "desc": "The SSC Tuatara is a sports car designed, developed and manufactured by American automobile manufacturer SSC North America (formerly Shelby SuperCars Inc.). The car is the successor to the Ultimate Aero and is the result of a design collaboration between Jason Castriota and SSC. Initially powered by a 6.9-liter twin-turbocharged V8 engine,",
+    "price": "890",
+    "img": "https://www.motortrend.com/uploads/sites/5/2020/10/2021-SSC-Tuatara-Reruns-Record-Car-Front-3.4.jpg?fit=around%7C770:481.25"
+  },
+  {
+    "name": "Devel Sixteen",
+    "desc": "The Devel Sixteen was revealed at the Dubai Motor Show looking like a cheap Lamborghini Egoista knockoff.We've checked the calendar and it's not April Fools' Day so Defining Extreme Vehicles Car Industry L.L.C. wants us to believe the Devel Sixteen is for real. However, it's hard to imagine the car in this video is powered by a V16 engine which produces a whopping 5,000 bhp (3,728 kW) and will run the 0-60 mph (0-96 km/h) sprint in 1.8 seconds.",
+    "price": "1500",
+    "img": "https://cdn.motor1.com/images/mgl/bEZ9l/s3/2013-423073-devel-sixteen-unveiled-at-dubai-motor-show1.webp"
+  }
+]
